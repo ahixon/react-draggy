@@ -1,0 +1,35 @@
+{
+  "name": "react-draggy",
+  "version": "1.0.0",
+  "description": "Make things draggable and alignable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahixon/react-draggy.git"
+  },
+  "keywords": [
+    "react",
+    "dnd",
+    "drag-and-drop",
+    "drag",
+    "move",
+    "align",
+    "alignment",
+    "ruler",
+    "snapping",
+    "snap",
+    "snapline"
+  ],
+  "author": "Alex Hixon <alex@alexhixon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahixon/react-draggy/issues"
+  },
+  "homepage": "https://github.com/ahixon/react-draggy#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
